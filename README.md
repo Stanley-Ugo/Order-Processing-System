@@ -7,10 +7,9 @@ High-throughput order processing API built with .NET 8, Clean Architecture, CQRS
 ### **Prerequisites**
 - .NET 8 SDK: https://dotnet.microsoft.com/download/dotnet/8.0
 - SQL Server LocalDB: comes with Visual Studio. Verify: `sqllocaldb i MSSQLLocalDB`
-- Optional: k6 for load testing: https://k6.io/docs/get-started/installation/
 
 ### **1.1 Clone & Restore**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Stanley-Ugo/Order-Processing-System.git
 cd OrderProcessingSystem
 dotnet restore
