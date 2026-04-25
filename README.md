@@ -11,5 +11,5 @@ High-throughput order processing API built with .NET 8, Clean Architecture, CQRS
 ### **1.1 Clone & Restore**
 ```bash
 git clone https://github.com/Stanley-Ugo/Order-Processing-System.git
-cd OrderProcessingSystem
+cd OrderProcessingSystem.Api
 dotnet restore
